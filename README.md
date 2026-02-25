@@ -10,7 +10,7 @@ Me chamo  Hellen Sonaly Silva Alves, sou doutoranda em Estatística e Experiment
         <img 
             alt="LinkedIn" 
             title="Conecte-se comigo no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-236ad3?style=for-the-badge&logo=linkedin&logoColor=white"
+           src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
         />
     </a>
     <a href="http://lattes.cnpq.br/4845253626067527" target="_blank">
