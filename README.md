@@ -26,7 +26,12 @@ Me chamo  Hellen Sonaly Silva Alves, sou doutoranda em Estatística e Experiment
             title="Meu ORCID" 
             src="https://img.shields.io/badge/ORCID-55960c?style=for-the-badge&logo=orcid&logoColor=white"
         />
-    </a>
+         </a>
+    <a href="https://www.rpubs.com/Hellen_Silva" target="_blank">
+        <img 
+            alt="RPubs" 
+            src="https://img.shields.io/badge/RPubs-1F4E79?style=for-the-badge&logo=r&logoColor=white"
+        />
 </p>
 
 ---
